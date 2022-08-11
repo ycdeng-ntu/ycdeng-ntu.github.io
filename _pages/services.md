@@ -5,4 +5,6 @@ permalink: /services/
 author_profile: true
 ---
 
-A complete list can be found in my [Google Scholar](https://scholar.google.com/citations?user=Yk3RZdoAAAAJ&hl=en&oi=ao) and [DBLP](https://dblp.org/pid/199/6564.html) profile.
+- Program Committee Member
+    -  AAAI Conference on Artificial Intelligence 
+        - [2021 (Top 25% PC member Award)](https://aaai.org/Conferences/AAAI-21/), [2022](https://aaai.org/Conferences/AAAI-22/), [2023](https://aaai.org/Conferences/AAAI-23/)
