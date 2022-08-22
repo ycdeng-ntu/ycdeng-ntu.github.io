@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a final-year PhD student at School of Computer Science and Engineering, Nanyang Technological University, Singapore, supervised by Prof. [Bo An](https://personal.ntu.edu.sg/boan/). Prior to that, I received my M.Sc. in Computer Science and B.Sc. in Electronic Information from Chongqing University and Fujian Normal University, respectively.
+I am currently a final-year PhD student at School of Computer Science and Engineering, Nanyang Technological University, Singapore, supervised by Prof. [Bo An](https://personal.ntu.edu.sg/boan/). Prior to this, I received my M.Sc. in Computer Science and B.Sc. in Electronic Information from Chongqing University and Fujian Normal University, respectively.
 
 # Research Interests
 
