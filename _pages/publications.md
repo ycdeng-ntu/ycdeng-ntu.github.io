@@ -13,6 +13,8 @@ A complete list can be found in my [Google Scholar](https://scholar.google.com/c
 
 ## 2022
 ------------
+- **Yanchen Deng**, Shufeng Kong, Caihua Liu, Bo An. Deep attentive belief propagation: Integrating reasoning and learning for solving constraint optimization problems. Proceedings of the Thirty-sixth Annual Conference on Neural Information Processing Systems (NeurIPS'22), accepted, 2022. (acceptance rate: 25.6\%, **CCF-A**)
+- Chen Dingding, Ziyu Chen, **Yanchen Deng**, Zhongshi He, Lulu Wang. Inference-based complete algorithms for asymmetric distributed constraint optimization problems. Artificial Intelligence Review, accepted, 2022. (**SCI, IF=9.588**)
 - **Yanchen Deng**, Shufeng Kong, Bo An. Pretrained cost model for distributed constraint optimization problems. Proceedings of the 36th AAAI Conference on Artificial Intelligence (AAAI'22), pp.9331-9340. 2022. (acceptance rate: 15.0%, **CCF-A**) [[paper]](/files/AAAI22.pdf) [[code]](https://github.com/ycdeng-ntu/GAT-PCM)
 
 ## 2021
