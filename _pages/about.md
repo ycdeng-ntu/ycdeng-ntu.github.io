@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a final-year PhD student at School of Computer Science and Engineering, Nanyang Technological University, Singapore, supervised by Prof. [Bo An](https://personal.ntu.edu.sg/boan/). Prior to this, I received my M.Sc. degree in Computer Science and B.Sc. degree in Electronic Information from Chongqing University and Fujian Normal University, respectively.
+I am currently a postdoctoral research fellow at College of Computing and Data Science, Nanyang Technological University (NTU), Singapore, supervised by Prof. [Bo An](https://personal.ntu.edu.sg/boan/). I received my PhD degree Ph.D degree in Computer Science from NTU, where I was fortunately advised by Prof. Bo An. Prior to this, I received my M.Sc. degree in Computer Science and B.Sc. degree in Electronic Information from Chongqing University and Fujian Normal University, respectively.
 
 # Research Interests
 
@@ -16,4 +16,5 @@ I am currently a final-year PhD student at School of Computer Science and Engine
 - Distributed problem solving
 - Constraint reasoning
 - Machine learning for combinatorial optimization
+- AI for Science
 
