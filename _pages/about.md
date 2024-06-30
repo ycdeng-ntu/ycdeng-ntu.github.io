@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoctoral research fellow at College of Computing and Data Science, Nanyang Technological University (NTU), Singapore, supervised by Prof. [Bo An](https://personal.ntu.edu.sg/boan/). I received my PhD degree Ph.D degree in Computer Science from NTU, where I was fortunately advised by Prof. Bo An. Prior to this, I received my M.Sc. degree in Computer Science and B.Sc. degree in Electronic Information from Chongqing University and Fujian Normal University, respectively.
+I am currently a postdoctoral research fellow at College of Computing and Data Science, Nanyang Technological University (NTU), Singapore, working with Prof. [Bo An](https://personal.ntu.edu.sg/boan/). I received my Ph.D. degree in Computer Science from NTU, where I was fortunately advised by Prof. Bo An. Prior to this, I received my M.Sc. degree in Computer Science and B.Sc. degree in Electronic Information from Chongqing University and Fujian Normal University, respectively.
 
 # Research Interests
 
